@@ -2,7 +2,7 @@
 > Author: Jia-Si
 
 --------------- 
-### Read DHI MIKE dfs data, e.g. `dfs0`, `dfs1`, `dfs2`.
+### Read DHI MIKE dfs data, e.g. `dfs0`, `dfs1`, `dfs2` in Python.
   
 > DHI MIKE is commenly used in metocean analysis for harbor design, costal protection design...etc.  
 > The `DHI MATLAB Toolbox` is complete, so I take this as my program reference.  
