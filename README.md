@@ -1,4 +1,6 @@
-# DHIdfsdools  
+# DHIdfsdools 
+Author: Jia-Si
+
 ===================  
 ## Read DHI MIKE dfs data, e.g. `dfs0`, `dfs1`, `dfs2`.
   
