@@ -17,7 +17,7 @@ And the requirement modules as follows.
 * `datetime`
   
 ## Setting  
-Every `.py` files have a line to set MIKE SDK path in order to import SDK .NET libraries.
+Every `.py` files have a line to set MIKE SDK path in order to import .NET libraries.
 ```
 sdk_path = r'C:\Program Files (x86)\DHI\2016\MIKE SDK\bin'
 ```
