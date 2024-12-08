@@ -31,6 +31,3 @@ In this line, you must fill in your `MIKE SDK` installation path.
 
 --------------------
   
-  
-If you have any other suggestions and recommendations, please feel free to contact.  
-<jiasi.cv03g@g2.nctu.edu.tw>
